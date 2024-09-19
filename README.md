@@ -2,7 +2,7 @@
 Python based application to help keep track of credit cards. The application will have a calendar view of the user's cards. Each of the tabs will have different functions for the user.
 
 **Challenges Faced**
-Learning to user the Calendar Module to showcase the Calendar View.
+- Learning to user the Calendar Module to showcase the Calendar View.
 
 ## MAIN TAB
 
