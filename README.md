@@ -16,5 +16,5 @@ Python based application to help keep track of credit cards.
 ## TRANSACTION TAB
 
 
-https://github.com/user-attachments/assets/92a870db-12ea-48e5-9696-239a8b8b6d31
+![credit_transaction](https://github.com/user-attachments/assets/de2819db-63b5-441c-8d84-3e3f4536d561)
 
