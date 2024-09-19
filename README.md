@@ -1,5 +1,8 @@
 # Credit-Card-Tracker
-Python based application to help keep track of credit cards.
+Python based application to help keep track of credit cards. The application will have a calendar view of the user's cards. Each of the tabs will have different functions for the user.
+
+**Challenges Faced**
+Learning to user the Calendar Module to showcase the Calendar View.
 
 ## MAIN TAB
 
@@ -25,4 +28,9 @@ Within this tab, the user is able to see the logged transactions for a Credit Ca
 
 ### Purpose
 Within this tab the user will manually input a transaction for a credit card by selecting a card and inputting the necessary the info it asks for .
+
+## Future Features
+  - Give user desktop notification about upcoming due dates
+  - Have a spending graph for each card
+  - Use the Calendar View to display Subscription Dates.
 
